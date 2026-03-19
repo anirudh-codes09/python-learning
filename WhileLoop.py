@@ -1,4 +1,4 @@
-ACCOUNT_PIN = 1234
+ACCOUNT_PIN = 123456
 
 pin = int(input("Enter your PIN here:\n "))
 
